@@ -1,0 +1,1 @@
+estou escrevendo um comentario para ser lido pelo javascript assincrono
